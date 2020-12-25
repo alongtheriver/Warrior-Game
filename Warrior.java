@@ -1,7 +1,6 @@
 package ice16;
 
 public class Warrior {
-	// Part 2 of ICE16
 	
 	// 4 properties: int age, String name, int expLevel, Weapon weapon 
 	private int age; 
