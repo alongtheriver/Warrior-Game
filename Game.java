@@ -3,9 +3,7 @@ package ice16;
 public class Game {
 
 	public static void main(String[] args) {
-		// Part 3 of ICE16
 		
-		// List of weapons
 		Weapon mean = new Weapon("Mean Words", 1, "Mean words cause very little damage"); 
 		Weapon bat = new Weapon("Baseball Bat", 10, "Some properties get destroyed"); 
 		Weapon gun = new Weapon("Handgun", 100, "Stronger than a baseball bat"); 
@@ -36,18 +34,3 @@ public class Game {
 
 }
  
-// Output: Warrior, Skeletor with experience level 20 attacks!
-// Weapon of type Mean Words has power 1
-// Mean words cause very little damage
-// Warrior, Striker with experience level 18 attacks!
-// Weapon of type Baseball Bat has power 10
-// Some properties get destroyed
-// Warrior, Skeletor with experience level 20 attacks!
-// Weapon of type Handgun has power 100
-// Stronger than a baseball bat
-// Warrior, Striker with experience level 18 attacks!
-// Weapon of type Bazooka has power 200
-// Major destruction
-// Warrior, Skeletor with experience level 20 attacks!
-// Weapon of type Handgun has power 100
-// Stronger than a baseball bat
