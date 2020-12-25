@@ -1,7 +1,6 @@
 package ice16;
 
 public class Weapon {
-	// Part 1 of ICE16
 	
 	// 3 properties: String type, int power, and String strikeMessage 
 	private String type; 
